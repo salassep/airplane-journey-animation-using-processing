@@ -25,7 +25,7 @@ In this program, if the airplane flies low, it will experience an engine failure
   https://github.com/salassep/airplane-journey-animation-using-processing.git
 ```
 
-- Open the project folder in Processing and then run it.
+- Open the project folder in Processing and then run ini_projectnya.pde.
 
 
 ## Demo
